@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, it's leonsux 👋
+
+[![leonsux's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsux&hide=contribs&show_icons=true&theme=dark)](https://github.com/leonsux)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonsux&theme=dark)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonsux&repo=The-Village&theme=dark)](https://github.com/leonsux)
+
 
 <!--
 **leonsux/leonsux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
