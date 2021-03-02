@@ -4,10 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonsux&theme=dark)]()
 
+<!--
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonsux&repo=The-Village&theme=dark)](https://github.com/leonsux)
 
 
-<!--
+
 **leonsux/leonsux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
